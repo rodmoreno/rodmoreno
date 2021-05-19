@@ -1,4 +1,4 @@
-## Rodrigo Moreno 🇲🇽 ([He/His](https://pronoun.is/he/his))
+## Rodrigo Moreno 🇲🇽 ([He/His](https://pronoun.is/he/him))
 ### Head of Engineering @ Flux QR
 ___
 
