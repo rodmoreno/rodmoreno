@@ -1,4 +1,4 @@
-## Rodrigo Moreno 🇲🇽 ([He/His](https://pronoun.is/he/him))
+## Rodrigo Moreno 🇲🇽 ([He/Him](https://pronoun.is/he/him))
 ### Head of Engineering @ Flux QR
 ___
 
@@ -10,7 +10,7 @@ Last 7 years I was focussed to work with Node.js, JavaScript, postgres and AWS. 
 
 I love the Pokémon franchise and have played Pokémon Go since it's release in '16 and currently have 639 different species of pokémon registered in my Pokédex. I'm casual gamer and I love simulator games, trying new food and hanging out with friends for beers and playing board games.
 
-## Jobs
+## Experience
 
 ### **Head of Engineering @ Flux QR (YC s19)**
 #### Dec 2019 - Current
