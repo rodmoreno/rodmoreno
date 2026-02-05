@@ -2,7 +2,7 @@
 
 **Head of Engineering** 📍 Mexico City
 
-I'm an engineering leader with 10+ years of experience building secure, scalable web and mobile platforms. Currently leading the engineering team at a fintech startup, where I've architected payment systems processing $300K+ MXN monthly with 99.99% uptime.
+I'm an engineering leader with 10+ years of experience building secure, scalable web and mobile platforms. Currently leading the engineering team at **Flux QR**, a fintech startup, where I've architected payment systems processing $13M+ MXN monthly with 99.99% uptime.
 
 ## 🚀 What I Do
 
@@ -14,12 +14,12 @@ I'm an engineering leader with 10+ years of experience building secure, scalable
 ## 🛠️ Tech Stack
 
 ```
-Languages:      JavaScript, TypeScript, Python, Swift, Objective-C
+Languages:      JavaScript, TypeScript, Python, Swift, Kotlin
 Backend:        Node.js, REST APIs, Microservices
-Frontend:       React, React Native, Angular
+Frontend:       Qwik, Astro, React, React Native
 Databases:      PostgreSQL, MySQL, MongoDB
 Cloud:          AWS (EC2, EKS, ECS, RDS, Lambda, S3, CloudFormation)
-Infrastructure: Terraform, OpenTofu, Docker, Kubernetes
+Infrastructure: OpenTofu, Terraform, Docker, Kubernetes
 CI/CD:          GitLab CI, Jenkins, TeamCity
 ```
 
@@ -39,7 +39,7 @@ CI/CD:          GitLab CI, Jenkins, TeamCity
 ## 📫 Let's Connect
 
 - [LinkedIn](https://mx.linkedin.com/in/morenorod)
-- [Email](mailto:dev@rodmoreno.mx)
+- [Email](mailto:hello@rodmoreno.mx)
 
 ---
 
